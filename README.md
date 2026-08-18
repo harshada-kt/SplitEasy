@@ -153,4 +153,4 @@ the same time on `http://localhost:5000` — the frontend talks to it directly.
 - Signature element: settle-up transactions render as connected avatar pills with an arrow, not a plain table
 
 ## Next up — Day 5
-Deploy backend (Render) + frontend (Vercel), final polish, README with screenshots.
+Deploy backend (Render) + frontend (Vercel), final polish, README.
